@@ -68,9 +68,8 @@
 - 第一次参与工作,都是一些码农工作,没有太多挑战的任务给我.
 
 ### 个人项目:
-
+ -  ![Image text](https://github.com/unicode200011/-/blob/master/~.png)
  - 某漫画网站 (远程外包) ,日活5000左右,主要业务是提供用户盗版漫画与视频. (https://github.com/unicode200011/- 可以查看详情)
  - 某直播后台管理工程 (远程外包) ,远程接手的某外包项目基于guns二次开发. (https://github.com/unicode200011/- 可以查看详情)
  - 某直播后台接口工程 (远程外包) ,远程接手的某外包项目提供安卓与IOS端业务逻辑处理. (https://github.com/unicode200011/- 可以查看详情)
- ![Image text](https://github.com/unicode200011/-/blob/master/~.png)
 
