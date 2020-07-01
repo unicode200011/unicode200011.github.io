@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎访问肖文舟的个人主页
 
-You can use the [editor on GitHub](https://github.com/unicode200011/unicode200011.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我会长期在此更新个人工作经历.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
