@@ -2,14 +2,14 @@
 
 ### 技术栈
 
-- 框架:Struts1/Struts2/Spring/SpringMVC/SpringCloud/SpringBoot/Hibernate/Mybatis/Ibatis
-- 中间件:REDIS/ActiveMQ/RabbitMQ/SpringCloud全家桶
-- 网络:CDN/域名/各大云服务商(OSS/COS/ECS)
-- Web前端：HTML5/JSP/Bootstrap/EasyUI/JS/JQ/CSS/XML/EL/JSTL
-- 开发工具: Eclipse/IDEA/XMind/Axure/Project/Dreamweaver/Xmanager/Jmeter/PowerDesigner/VISIO
-- 数据库相关：MySQL/SQLServer/ORACLE
-- 版本管理、文档和自动化部署工具：Svn/Github/Gitlab
-- 操作系统：基于Linux/Windows/MacOS
+-	框架:Struts1/Struts2/Spring/SpringMVC/SpringCloud/SpringBoot/Hibernate/Mybatis/Ibatis  
+- 中间件:REDIS/ActiveMQ/RabbitMQ/SpringCloud全家桶  
+- 网络:CDN/域名/各大云服务商(OSS/COS/ECS)  
+- Web前端：HTML5/JSP/Bootstrap/EasyUI/JS/JQ/CSS/XML/EL/JSTL  
+- 开发工具: Eclipse/IDEA/XMind/Axure/Project/Dreamweaver/Xmanager/Jmeter/PowerDesigner/VISIO  
+- 数据库相关：MySQL/SQLServer/ORACLE  
+- 版本管理、文档和自动化部署工具：Svn/Github/Gitlab  
+- 操作系统：基于Linux/Windows/MacOS  
 
 ### 项目管理:
 1. 正在备考PMP证书.
