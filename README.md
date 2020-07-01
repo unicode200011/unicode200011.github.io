@@ -1,6 +1,6 @@
 ### 技术栈
 
--	框架:Struts1/Struts2/Spring/SpringMVC/SpringCloud/SpringBoot/Hibernate/Mybatis/Ibatis
+- 框架:Struts1/Struts2/Spring/SpringMVC/SpringCloud/SpringBoot/Hibernate/Mybatis/Ibatis
 - 中间件:REDIS/ActiveMQ/RabbitMQ/SpringCloud全家桶
 - 网络:CDN/域名/各大云服务商(OSS/COS/ECS)
 - Web前端：HTML5/JSP/Bootstrap/EasyUI/JS/JQ/CSS/XML/EL/JSTL
