@@ -6,7 +6,9 @@
     积极向上:酷爱专研新鲜事物,并有危机意识,喜欢不断挑战自己,对自我人生有规划,备考PMP,然后备考MBA,平时热爱健身,运动;
     
 ### 掌握技能
+
  # 作为项目、产品、经理 熟练掌握: 
+ 
    - 	XMind、Axure、Project、VISIO 、墨刀、进行头脑风暴,项目进度控制,原型图,业务流程图等PM常用技能;
    - 	长期to b、to c 方打交道,深度挖掘用户需求,并深知甲方爸爸原理,并有良好的产品方案设计原理;
    - 	深知如今互联网产品大多数为敏捷开发场景,深知其价值观: ↓
@@ -14,7 +16,9 @@
    - 	利用懂技术的优势掌握整个项目生命周期,并能很好的与技术人员无障碍沟通;
    - 	可根据实际业务场景编写跟踪管理工具提高产品、项目、经理的工作效率;
    - 	带过10+ 人员团队,包含 研发、需求、测试、运维 ,会最大化利用资源,已节省不必要的开支;
+   
  # 作为程序员熟练掌握: 
+ 
    - 	Struts1、Struts2、Spring、SpringMVC、SpringCloud、SpringBoot、Hibernate、Mybatis、Ibatis等框架;
    - 	REDIS、ActiveMQ、RabbitMQ、SpringCloud全家桶 之类中间件;
    - 	HTML5、JSP、Bootstrap、EasyUI、JS、JQ、CSS、XML、EL、JSTL Web前端技术;
